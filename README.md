@@ -11,3 +11,6 @@ Nvidia DeepStream SDK[a href:https://developer.nvidia.com/deepstream-sdk]
 1、修改Makefile.sample_detection中相关第三方库的存放地址
 2、make
 3、sh run.sh
+
+
+test
